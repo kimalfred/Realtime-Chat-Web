@@ -1,3 +1,6 @@
+## Free Chat API 
+https://chatengine.io/
+
 ## Import
 
 Backend
@@ -14,6 +17,12 @@ Frontend
 ```
 npm create vite@latest
 npm install
+```
+
+Frontend Chat Design
+https://www.npmjs.com/package/react-chat-engine-advanced
+```
+npm i react-chat-engine-advanced
 ```
 
 To run NodeJs
