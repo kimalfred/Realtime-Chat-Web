@@ -16,8 +16,13 @@ npm create vite@latest
 npm install
 ```
 
-##To run NodeJs
+To run NodeJs
 
 ```
 npm run start
+```
+To run ReactJs
+
+```
+npm run dev
 ```
