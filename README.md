@@ -1,4 +1,7 @@
 # Simple Chat API 
+
+Simple Chat API created in NodeJS and ReactJS
+
 ![image](https://github.com/kimalfred/Realtime-Chat-Web/assets/119164038/9a4bcf57-c236-4836-a8ea-419cae04f63f)
 
 ## Free Chat API 
